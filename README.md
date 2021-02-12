@@ -19,8 +19,8 @@ __*ece*__
 >>> gdufesrdrfhugdkuikisdhfu
 #### orderwed list
 1. ece
-2. ece
-  1.eee
-  2.eee
- 3.csc
- 4.csc
+    2. ece
+1.eee
+    2.eee
+3.csc
+    4.csc
