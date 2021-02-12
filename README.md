@@ -45,7 +45,6 @@ printf ("hello world");
 return 0;
 ```
 ### inserting urls
--markdown link
   [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
 -collage link
   [collage](https://www.jagranjosh.com/institutes-colleges/krishna-chaitanya-inst)
