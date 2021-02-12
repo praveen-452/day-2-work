@@ -46,3 +46,6 @@ return 0;
 ```
 ### inserting urls
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+[collage](https://www.jagranjosh.com/institutes-colleges/krishna-chaitanya-inst)
+[gmail](https://accounts.google.com/ServiceLogin)
+[github](https://github.com)
