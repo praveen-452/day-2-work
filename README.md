@@ -33,5 +33,6 @@ __*ece*__
     - eee b
 ### code
 ```python
-print("hello")```
+print("hello")
+```
 
