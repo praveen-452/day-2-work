@@ -53,4 +53,4 @@ return 0;
 -github link
   [github](https://github.com)
   ## inserting vedios
-  [![vedio]()](https://www.youtube.com/watch?v=hoNb6HuNmU0)
+  [![vedio](https://img.youtube.com/vi/hoNb6HuNmU0/0.jpg)](https://www.youtube.com/watch?v=hoNb6HuNmU0)
