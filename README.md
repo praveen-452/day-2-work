@@ -49,7 +49,7 @@ return 0;
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
 -collage link
 [collage](https://www.jagranjosh.com/institutes-colleges/krishna-chaitanya-inst)
-gmail link
+-gmail link
 [gmail](https://accounts.google.com/ServiceLogin)
 -github link
 [github](https://github.com)
